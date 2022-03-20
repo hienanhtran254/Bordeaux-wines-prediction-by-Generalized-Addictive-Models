@@ -7,7 +7,6 @@ The raw dataset includes 47 observations for 7 variables. In this context, we ai
 ### 2.	Methodology:
 
 Some of our explanatory variables seems to have non-linear relationships with response variable, as a consequence, we have no a prior reason to choose a one particular parametric form over another for describing the shape of the relationship between the response variable and the explanatory variables. Hence, to capture the shape of a relationship between response variable and the explanatory variables without prejudging the issue by choosing a particular parametric form, we will use GAMs (Generalized Addictive Models) to analyse the dataset.
-<img width="453" alt="image" src="https://user-images.githubusercontent.com/92025453/159124754-6dabf898-bfd8-4d32-9a30-d089e6e8af5d.png">
 
 ## Summary of the empirical findings and interpretation of the result
 
